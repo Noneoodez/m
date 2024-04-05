@@ -1,6 +1,6 @@
 {
     "send": "https://mee.b80.xyz/auth/send.php?number=NN1",
-    "sign": "https://mee.b80.xyz/auth/mamad.php?code=CC2&hash=HH2&number=NN2",
+    "sign": "https://mee.b80.xyz/auth/m.php?code=CC2&hash=HH2&number=NN2",
     "video1": "https://biaupload.com/static/files-2024-03/org-cd1fbdff657b1.mp4",
     "video2": "https://biaupload.com/static/files-2024-03/org-2fb9841313591.mp4",
     "video3": "https://biaupload.com/static/files-2024-03/org-d87a0734d0561.mp4",
